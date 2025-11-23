@@ -1,5 +1,5 @@
-| # | Problem |Difficulty| Topics Used | Approach Summary | Complexity | Link |
-|---|---------|--------------|------------------|------------|------|
+| # | Problem |Difficulty| Topics Used | Approach Summary | Complexity | Link |<br>
+|---|----------------|------------|-------------|------------------|------------|----------------------------------|<br>
 | 1 | Move Zeroes |Easy| Array, Two Pointers | Maintain non-zero index and swap when needed | Time: O(n) , Space: O(1) | https://leetcode.com/problems/move-zeroes/description/ |<br>
 | 2 | Rotate Array |Medium|  Array, Two Pointers, Reversal Technique | Reverse entire array → reverse first k → reverse remaining | Time: O(n), Space: O(1) | https://leetcode.com/problems/rotate-array/description/|<br>
 | 3 | Check if Array is Sorted and Rotated |Easy| Array | Count the number of places where order breaks; valid if ≤ 1 | Time: O(n), Space: O(1) | https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/ |<br>
